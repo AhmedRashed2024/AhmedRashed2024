@@ -35,7 +35,7 @@ fun_fact: I turn coffee into code.
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </div>
 
----
+
 
 ## GitHub Activity
 
@@ -49,7 +49,7 @@ fun_fact: I turn coffee into code.
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedRashed2024&theme=tokyonight&hide_border=true" /></a>
 </div>
 
----
+
 
 ## Featured Projects
 
@@ -58,7 +58,7 @@ fun_fact: I turn coffee into code.
 | [CitiBike Big Data Analysis](https://github.com/AhmedRashed2024/CitiBike-BigData-Analysis) | NYC trip analysis pipeline with SparkML | `Spark` |
 | [NYC CrashLens](https://github.com/AhmedRashed2024) | Traffic collision data engineering & insights | `Python` |
 
----
+
 
 ## Connect With Me
 
