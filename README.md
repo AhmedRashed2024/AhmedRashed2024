@@ -55,7 +55,6 @@ fun_fact: I turn coffee into code.
 
 | Project | Description | Tech |
 |---|---|---|
-| [Attack on Titan 2D Game](https://github.com/AhmedRashed2024/Milestone2solutionGIU) | OOP tower defense game with a full battle engine | `Java` |
 | [CitiBike Big Data Analysis](https://github.com/AhmedRashed2024/CitiBike-BigData-Analysis) | NYC trip analysis pipeline with SparkML | `Spark` |
 | [NYC CrashLens](https://github.com/AhmedRashed2024) | Traffic collision data engineering & insights | `Python` |
 
