@@ -51,15 +51,6 @@ fun_fact: I turn coffee into code.
 
 ---
 
-## Currently Working On
-
-- Building data engineering pipelines with **Apache Spark**
-- Exploring **Computer Vision** with OpenCV & YOLO
-- Strengthening my **Machine Learning** foundations
-- Sharpening backend skills with **FastAPI** & **Node.js**
-
----
-
 ## Featured Projects
 
 | Project | Description | Tech |
