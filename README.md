@@ -33,10 +33,9 @@
 ---
 
 ### 📊 GitHub Stats
+![AhmedRashed2024's GitHub stats](https://github-stats-alpha.vercel.app/api?username=AhmedRashed2024&theme=dark)
 
-![AhmedRashed2024's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRashed2024&show_icons=true&theme=dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRashed2024&layout=compact&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRashed2024&layout=compact&theme=dark&v=2)
 
 ### 🔥 Streak
 
