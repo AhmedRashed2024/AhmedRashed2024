@@ -35,7 +35,7 @@
 ### 📊 GitHub Stats
 ![AhmedRashed2024's GitHub stats](https://github-stats-alpha.vercel.app/api?username=AhmedRashed2024&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRashed2024&layout=compact&theme=dark&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRashed2024&langs_count=8&layout=compact&theme=dark)
 
 ### 🔥 Streak
 
