@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Rashed;+%26+ML+Enthusiast;+Computer+Science+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Rashed;+%26+ML+Enthusiast;+Computer+scienctist+Data+analyst" alt="Typing SVG" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=AhmedRashed2024&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
 </div>
@@ -11,8 +11,8 @@
 ```yaml
 name: Ahmed Rashed
 education: Computer Science @ German International University (GIU)
-focus: [ Software Development, Data Engineering, Machine Learning ]
-currently_learning: [ Big Data, Computer Vision, Backend Systems ]
+focus: [ Software Development, Data Engineering, Machine Learning , Ethical Hacking & Penetration Testing ]
+currently_learning: [ Big Data, Computer Vision, Software Cloud Computing , Ethical Hacking & Penetration Testing ]
 fun_fact: I turn coffee into code.
 ```
 
