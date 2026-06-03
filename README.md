@@ -37,11 +37,11 @@ fun_fact: I turn coffee into code.
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AhmedRashed2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRashed2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/github/followers/AhmedRashed2024?label=Followers&style=for-the-badge&color=2F81F7&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/AhmedRashed2024?label=Stars&style=for-the-badge&color=2F81F7&logo=github&logoColor=white" />
 </div>
 
 <div align="center">
@@ -51,11 +51,12 @@ fun_fact: I turn coffee into code.
 
 ---
 
-## GitHub Trophies
+## Currently Working On
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedRashed2024&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
+- Building data engineering pipelines with **Apache Spark**
+- Exploring **Computer Vision** with OpenCV & YOLO
+- Strengthening my **Machine Learning** foundations
+- Sharpening backend skills with **FastAPI** & **Node.js**
 
 ---
 
