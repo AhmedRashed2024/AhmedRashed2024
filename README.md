@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Rashed;Software+Developer;Data+%26+ML+Enthusiast;GIU+Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Rashed;+%26+ML+Enthusiast;+Computer+Science+" alt="Typing SVG" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=AhmedRashed2024&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
 </div>
