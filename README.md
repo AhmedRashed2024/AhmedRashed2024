@@ -72,3 +72,15 @@ fun_fact: I turn coffee into code.
 <div align="center">
   <img src="https://raw.githubusercontent.com/AhmedRashed2024/AhmedRashed2024/output/github-snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+## Commit Invaders
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedRashed2024/AhmedRashed2024/invaders/commit-invaders-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedRashed2024/AhmedRashed2024/invaders/commit-invaders.svg" />
+    <img src="https://raw.githubusercontent.com/AhmedRashed2024/AhmedRashed2024/invaders/commit-invaders.svg" alt="Commit Invaders animation" width="100%" />
+  </picture>
+</div>
