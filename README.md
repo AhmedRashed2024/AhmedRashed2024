@@ -46,7 +46,29 @@ fun_fact: I turn coffee into code.
 
 <div align="center">
   <br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedRashed2024&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=2F81F7" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRashed2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <br/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedRashed2024&theme=tokyonight&hide_border=true" /></a>
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedRashed2024&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRashed2024&bg_color=1a1b27&color=2F81F7&line=2F81F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </div>
 
 
