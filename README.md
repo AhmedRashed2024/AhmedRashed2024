@@ -107,11 +107,6 @@ getting models out of notebooks and into production.
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRashed2024&bg_color=1a1b27&color=2F81F7&line=2F81F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
-</div>
 
 ---
 
