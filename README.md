@@ -82,33 +82,6 @@ getting models out of notebooks and into production.
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/AhmedRashed2024?label=Followers&style=for-the-badge&color=2F81F7&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/AhmedRashed2024?label=Stars&style=for-the-badge&color=2F81F7&logo=github&logoColor=white" />
-</div>
-
-<div align="center">
-  <br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedRashed2024&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</div>
-
-<!--
-  The two cards below are commented out because their shared public instances are
-  currently down: github-readme-stats returns HTTP 503 and github-profile-trophy
-  returns HTTP 402 (Vercel free-tier quota exhausted). Deploy your own fork of each
-  to Vercel, swap the hostname below, and uncomment to enable them.
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedRashed2024&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=2F81F7" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRashed2024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedRashed2024&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
--->
-
----
-
-
----
 
 ## Contribution Snake
 
